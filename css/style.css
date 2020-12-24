@@ -11,6 +11,9 @@ body {
 	  height: auto;
       -webkit-perspective: 1000;
       -webkit-perspective-origin: 50% 620px;
+	  display: flex;
+	  align-items: center;
+	  justify-content: center;
     }
     #stage {
       width: 100%;
